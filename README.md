@@ -14,7 +14,7 @@ Last Week, I released a early prototype of one BS component for touch-enabled de
 
 ## Next Steps
 If you are interested in this project, please help me to find some cool ideas on how to realize somthing like this, [fork](https://github.com/ixisio/bootstrap-touch) the project on github or just have a talk on [twitter](http://twitter.com/ixisio).
-In the following list, you can find a few ideas, bugs and improvements I've already collected. Feel free to complete the list..
+Have a look at the list of current issues, you can find a few ideas, bugs and improvements I've already collected. Feel free to complete the list..
 
 ## Copyright and license
 Copyright (c) 2013 ixisio Licensed under the MIT license.
